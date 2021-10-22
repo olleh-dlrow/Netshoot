@@ -18,9 +18,9 @@ https://pan.baidu.com/s/1mBijWno-fU4eSaaf3mIwBg 提取码：2048
 
    ![image-20211022211242866](readme/image-20211022211242866.png)
 
-2. 打开``WindowsServer``文件夹，双击运行``NetshootServer.exe - ServerWithSession``
+2. 打开``WindowsServer``文件夹，双击运行``ServerWithSession.bat``
 
-   ![image-20211022211325663](readme/image-20211022211325663.png)
+   ![image-20211022224332086](readme/image-20211022224332086.png)
 
 3. 返回``ClientServerBuild``文件夹，打开``WindowsNoEditor``文件夹，双击运行``Netshoot.exe``，如果成功，则再重复运行一次
 
